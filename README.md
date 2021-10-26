@@ -1,0 +1,2 @@
+# zjhzcc_ics
+通过教务网上的课表制作ICS文件，可导入到Google日历、Outlook日历及其他支持ICS文件的日历
