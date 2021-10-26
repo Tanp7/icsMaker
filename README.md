@@ -1,6 +1,6 @@
 # zjhzcc_ics
 通过教务网上的课表制作ICS文件，可导入到Google日历、Outlook日历及其他支持ICS文件的日历
-****
+
 # 食用方法
   1.通过教务网上的课表数据手动输入xlsx文件  
   2.运行excelReader.py  
