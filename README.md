@@ -13,7 +13,7 @@ git clone https://github.com/Tanp7/icsMaker
 #  FAQ
 
 ## macOS用户注意
-通过`pip install`安装的xlrd可能不支持`.xlxs`,需要将表哥转换成`.xls`即可正常食用.
+通过`pip install`安装的xlrd可能不支持`.xlxs`,需要将表格转换成`.xls`即可正常食用.
 
 ## 提示找不到xlrd？
 可能是你没装xlrd
