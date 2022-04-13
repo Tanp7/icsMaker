@@ -1,6 +1,6 @@
 # Info
 通过教务网上的课表制作ICS文件，可导入到Google日历、Outlook日历及其他支持ICS文件的日历
-# usage
+# Usage
 ## 你可以使用Git或者Git工具：
 ```zsh
 git clone https://github.com/Tanp7/icsMaker  
@@ -12,7 +12,8 @@ git clone https://github.com/Tanp7/icsMaker
 -  同目录会生成对应课表的ICS文件，导入日历即可。
 #  FAQ
 
-
+## macOS用户注意
+通过`pip install`安装的xlrd可能不支持`.xlxs`,需要将表哥转换成`.xls`即可正常食用.
 
 ## 提示找不到xlrd？
 可能是你没装xlrd
